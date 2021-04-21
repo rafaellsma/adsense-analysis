@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rafae/Desktop/cd/adsense-analysis/mlruns/0/4efcd0f35fc14fe889c8cf146946a73e/artifacts
+end_time: 1619000228249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4efcd0f35fc14fe889c8cf146946a73e
+run_uuid: 4efcd0f35fc14fe889c8cf146946a73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619000228068
+status: 3
+tags: []
+user_id: rafae
